@@ -1,3 +1,6 @@
+### 最終更新日 ###
+# 6月25日
+
 ### MEMBER ###
 # itsuki
 # matyai
