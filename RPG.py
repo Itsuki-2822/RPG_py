@@ -130,4 +130,4 @@ if __name__ == "__main__":
     rpg.player_init()
     rpg.maou_init()
     rpg.choice_command()
-
+    print("これは実験用です")
